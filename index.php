@@ -49,7 +49,6 @@ echo'<!DOCTYPE html>
                   <li><a href="https://groups.google.com/forum/#!forum/twister-dev">'.$menu_for_developers2.'</a></li>
                 </ul>
               </li>
-			  <li><a href="https://github.com/iShift/twister-webkit/releases/latest">'.$menu_download_for_windows.'</a></li>
             </ul>
           </div><!--/.nav-collapse -->
         </div><!--/.container-fluid -->
