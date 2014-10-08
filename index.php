@@ -65,8 +65,8 @@ echo'<!DOCTYPE html>
         <p>
           <a class="btn btn-primary" href="faq.html" role="button">'.$btn_another_dif.' &raquo;</a>
 <hr>
-         <center> <a class="btn btn-lg btn-success" href="https://github.com/iShift/twister-webkit/releases/download/0.9.22.0/Twister-0.9.22.0.exe" role="button">'.$menu_download_for_windows.' &raquo;</a>
-		<br> <a class="btn btn-lg" href="https://github.com/miguelfreitas/twister-core#compiling" role="button">Unix/Linux/OS X</a>
+         <center> <a class="btn btn-lg btn-success" href="https://github.com/iShift/twister-webkit/releases/download/0.9.26.0/Windows-Twister-0.9.26.0.exe" role="button">'.$menu_download_for_windows.' &raquo;</a>   <a class="btn btn-lg" href="https://github.com/iShift/twister-webkit/releases/download/0.9.26.0/MAC-OS-X-Twister-0.9.26.0.zip" role="button">'.$menu_download_for_mac.' &raquo;</a>
+		<br> <a class="btn btn-lg" href="https://github.com/miguelfreitas/twister-core#compiling" role="button">Unix/Linux</a>
 <br><b>          '.$active_develop.'</b></center>
         </p>
       </div>

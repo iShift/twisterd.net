@@ -14,6 +14,7 @@ setcookie ("lang",$lang,time()+3600*24*62,"/");
 if ($lang == 'ru') {
 // Russian language
 // index.php
+$menu_download_for_mac ='Скачать для Mac OS X';
 $head_title = 'Twister - Микроблогинг без цензуры';
 $menu_main = 'Главная';
 $menu_diff = 'В чем отличие от Twitter?';
@@ -50,6 +51,7 @@ $post_for_hashtag = 'Просмотр постов с хэштегом #ru';
 }else{
 	// English language
 // index.php
+$menu_download_for_mac ='Download for Mac OS X';
 $head_title = 'Twister - Uncensored Microblogging';
 $menu_main = 'Main';
 $menu_diff = 'What is the difference from Twitter?';
